@@ -1,0 +1,30 @@
+@media (max-width: 620px) {
+    .times-slider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+}
+
+.btn-seta {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.time-lista {
+    height: 480px;
+}
+
+.cartao .imagem-time {
+    max-height: 230px;
+}
+
+.cartao .informacoes .nome {
+    max-width: 50%;
+    font-size: 18px;
+}
+
+.cartao .informacoes .ano {
+    font-size: 14px;
+}
